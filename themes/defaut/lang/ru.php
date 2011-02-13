@@ -33,7 +33,7 @@ $LANG = array(
 
 # common
 'WRITTEN_BY'			=> 'Написал',
-'CLASSIFIED_IN'			=> 'Отностится к',
+'CLASSIFIED_IN'			=> 'Относится к',
 'TAGS'					=> 'Теги',
 
 # commentaires.php

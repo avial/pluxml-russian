@@ -214,9 +214,9 @@ $LANG = array(
 'L_PAGINATION_NEXT_TITLE'			=> 'Следующая страница', # used in commentaires_offline.php and commentaires_online.php
 'L_PAGINATION_PREVIOUS_TITLE'		=> 'Предыдущая странца', # used in commentaires_offline.php and commentaires_online.php
 'L_COMMENT_OFFLINE_FEEDS_TITLE'		=> 'Atom feed for offline comments', # used in commentaires_offline.php and commentaires_online.php
-'L_COMMENT_OFFLINE_FEEDS'			=> 'Offline comments', # used in commentaires_offline.php and commentaires_online.php
+'L_COMMENT_OFFLINE_FEEDS'			=> 'Оффлайн комментарии', # used in commentaires_offline.php and commentaires_online.php
 'L_COMMENT_ONLINE_FEEDS_TITLE'		=> 'Atom feed for online comments', # used in commentaires_offline.php and commentaires_online.php
-'L_COMMENT_ONLINE_FEEDS'			=> 'Online comments', # used in commentaires_offline.php and commentaires_online.php
+'L_COMMENT_ONLINE_FEEDS'			=> 'Онлайн комментарии', # used in commentaires_offline.php and commentaires_online.php
 'L_COMMENTS_PRIVATE_FEEDS'		    => 'Private feeds',
 
 # commentaire_online.php
@@ -509,7 +509,7 @@ $LANG = array(
 'L_MENU_PROFIL'						=> 'Профиль',
 'L_MENU_PLUGINS_TITLE'				=> 'Управлять плагинами',
 'L_MENU_PLUGINS'					=> 'Плагины',
-'L_WARNING_INSTALLATION_FILE'		=> '<p class="error">Файл install.php до сих пор находитсяв корне вашего сайта.<br />Из соображений безопастности его рекомендуется удалить</p>',
+'L_WARNING_INSTALLATION_FILE'		=> '<p class="error">Файл install.php до сих пор находится в корне вашего сайта.<br />Из соображений безопастности его рекомендуется удалить</p>',
 
 # user.php
 'L_USER_UNKNOWN'					=> 'Неизвестный пользователь',
