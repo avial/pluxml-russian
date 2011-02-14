@@ -106,7 +106,7 @@ $LANG = array(
 
 'L_AUTH_PAGE_TITLE'					=> 'Страница Авторизации',
 'L_LOGOUT_SUCCESSFUL'				=> 'Сеанс Завершен',
-'L_LOGIN_PAGE'						=> 'Login to administration',
+'L_LOGIN_PAGE'						=> 'Вход',
 'L_AUTH_LOGIN_FIELD'				=> 'Логин',
 'L_AUTH_PASSWORD_FIELD'				=> 'Пароль',
 'L_SUBMIT_BUTTON'					=> 'Войти',
@@ -114,66 +114,66 @@ $LANG = array(
 
 # categories.php
 
-'L_CAT_SORT_DESCENDANT' 			=> 'Descendant',
-'L_CAT_SORT_ASCENDANT'				=> 'Ascendant',
-'L_CAT_TITLE'						=> 'Category Manager',
+'L_CAT_SORT_DESCENDANT' 			=> 'Убывание',
+'L_CAT_SORT_ASCENDANT'				=> 'Возрастание',
+'L_CAT_TITLE'						=> 'Менеджер разделов',
 'L_CAT_LIST_ID' 					=> 'ID',
-'L_CAT_LIST_NAME' 					=> 'Category name',
+'L_CAT_LIST_NAME' 					=> 'Название раздела',
 'L_CAT_LIST_URL' 					=> 'Url',
-'L_CAT_LIST_SORT' 					=> 'Article sorting',
+'L_CAT_LIST_SORT' 					=> 'Сортировка',
 'L_CAT_LIST_BYPAGE'					=> 'Nb art/page',
-'L_CAT_LIST_ORDER' 					=> 'Rank',
-'L_CAT_LIST_MENU' 					=> 'Menu',
-'L_CATEGORY'						=> 'Category',
-'L_DISPLAY'							=> 'Display',# used in categories.php and statiques.php
-'L_HIDE'							=> 'Hide',# used in categories.php and statiques.php
-'L_OPTIONS'							=> 'Options',# used in categories.php, parametres_users.php and statiques.php
-'L_CAT_TEMPLATE_FIELD'				=> 'Template',
-'L_NEW_CATEGORY' 					=> 'New category',
-'L_YES' 							=> 'Yes', # used in categories.php, statiques.php and article.php
-'L_NO' 								=> 'No', # used in categories.php, statiques.php and article.php
-'L_FOR_SELECTION' 					=> 'For selection...', # used in categories.php, parametres_users.php and statiques.php
-'L_DELETE' 						    => 'Delete', # used in article.php, categories.php, medias.php, parametres_users.php and statiques.php
+'L_CAT_LIST_ORDER' 					=> 'Ранг',
+'L_CAT_LIST_MENU' 					=> 'Меню',
+'L_CATEGORY'						=> 'Раздел',
+'L_DISPLAY'							=> 'Показать',# used in categories.php and statiques.php
+'L_HIDE'							=> 'Спрятаь',# used in categories.php and statiques.php
+'L_OPTIONS'							=> 'Опции',# used in categories.php, parametres_users.php and statiques.php
+'L_CAT_TEMPLATE_FIELD'				=> 'Шаблон',
+'L_NEW_CATEGORY' 					=> 'Новый раздел',
+'L_YES' 							=> 'Да', # used in categories.php, statiques.php and article.php
+'L_NO' 								=> 'Нет', # used in categories.php, statiques.php and article.php
+'L_FOR_SELECTION' 					=> 'Выбрать...', # used in categories.php, parametres_users.php and statiques.php
+'L_DELETE' 						    => 'Удалить', # used in article.php, categories.php, medias.php, parametres_users.php and statiques.php
 'L_OK'								=> 'Ok', # used in categories.php, parametres_users.php and statiques.php
-'L_CAT_APPLY_BUTTON'				=> 'Change categories list',
-'L_CAT_UNKNOWN'						=> 'Unknown category',
+'L_CAT_APPLY_BUTTON'				=> 'Применить изменения',
+'L_CAT_UNKNOWN'						=> 'Неизвестый раздел',
 
 # categorie.php
 
-'L_EDITCAT_PAGE_TITLE'				=> 'Edit category options',
-'L_EDITCAT_DESCRIPTION'				=> 'Description',
-'L_EDITCAT_TEMPLATE'				=> 'Template',
-'L_EDITCAT_BACK_TO_PAGE'			=> 'Back to categories',
-'L_EDITCAT_UPDATE'					=> 'Update this category',
-'L_EDITCAT_META_DESCRIPTION'		=> '"Description" Meta tag content  (optional)',
-'L_EDITCAT_META_KEYWORDS'			=> '"Keywords" Meta tag content  (optional)',
+'L_EDITCAT_PAGE_TITLE'				=> 'Редактировать настройки раздела',
+'L_EDITCAT_DESCRIPTION'				=> 'Описание',
+'L_EDITCAT_TEMPLATE'				=> 'Шаблон',
+'L_EDITCAT_BACK_TO_PAGE'			=> 'Назад к разделам',
+'L_EDITCAT_UPDATE'					=> 'Применить изменения',
+'L_EDITCAT_META_DESCRIPTION'		=> '"Описание" Мета тег (опционально)',
+'L_EDITCAT_META_KEYWORDS'			=> '"Ключевые слова" Мета тег (опционально)',
 
 # commentaire.php
 
-'L_COMMENT_ORPHAN' 					=> 'no article',
+'L_COMMENT_ORPHAN' 					=> 'нет статьи',
 'L_COMMENT_ORPHAN_STATUS' 			=> 'not displayed (we advise you to delete this comment',
-'L_COMMENT_ARTICLE_LINKED'			=> 'Article', # used in commentaire.php and commentaire_new.php
-'L_COMMENT_ARTICLE_LINKED_TITLE'	=> 'Article linked to this comment', # used in commentaire.php and commentaire_new.php
-'L_COMMENT_OFFLINE' 				=> 'offline',
-'L_COMMENT_ONLINE'					=> 'online',
-'L_COMMENT_ONLINE_TITLE'			=> 'See this comment online', # used in commentaires_online.php et commentaire.php
-'L_BACK_TO_ARTICLE_COMMENTS'		=> 'Back to this article\'s comments', # used in commentaire.php and commentaire_new.php
-'L_BACK_TO_COMMENTS'        		=> 'Back to comments', # used in commentaire.php and commentaire_new.php
-'L_COMMENT_EDITING' 				=> 'Comment edit',
-'L_COMMENT_AUTHOR_FIELD'			=> 'Author', # used in commentaire.php and commentaire_new.php
-'L_COMMENT_TYPE_FIELD'				=> 'Comment type', # used in commentaire.php and commentaire_new.php
-'L_COMMENT_DATE_FIELD'				=> 'Date',
+'L_COMMENT_ARTICLE_LINKED'			=> 'Статья', # used in commentaire.php and commentaire_new.php
+'L_COMMENT_ARTICLE_LINKED_TITLE'	=> 'Статья относящаяся к этому комментарию', # used in commentaire.php and commentaire_new.php
+'L_COMMENT_OFFLINE' 				=> 'оффлайн',
+'L_COMMENT_ONLINE'					=> 'онлайн',
+'L_COMMENT_ONLINE_TITLE'			=> 'Посмотреть на комментарий онлайн', # used in commentaires_online.php et commentaire.php
+'L_BACK_TO_ARTICLE_COMMENTS'		=> 'Назад к комментариям этой статьи', # used in commentaire.php and commentaire_new.php
+'L_BACK_TO_COMMENTS'        		=> 'Назад к комментариям', # used in commentaire.php and commentaire_new.php
+'L_COMMENT_EDITING' 				=> 'Редактирование комментариев',
+'L_COMMENT_AUTHOR_FIELD'			=> 'Автор', # used in commentaire.php and commentaire_new.php
+'L_COMMENT_TYPE_FIELD'				=> 'Тип комментария', # used in commentaire.php and commentaire_new.php
+'L_COMMENT_DATE_FIELD'				=> 'Дата',
 'L_COMMENT_IP_FIELD'				=> 'Ip',
-'L_COMMENT_SITE_FIELD'				=> 'Site', # used in commentaire.php and commentaire_new.php
+'L_COMMENT_SITE_FIELD'				=> 'Сайт', # used in commentaire.php and commentaire_new.php
 'L_COMMENT_EMAIL_FIELD'				=> 'E-mail',
-'L_COMMENT_STATUS_FIELD'			=> 'Status',
-'L_COMMENT_LINKED_ARTICLE_FIELD'	=> 'Linked article', # used in commentaire.php and commentaire_new.php
-'L_COMMENT_ARTICLE_FIELD'			=> 'Comments',
-'L_COMMENT_DELETE_CONFIRM'			=> 'Delete this comment ?',
-'L_COMMENT_PUBLISH_BUTTON'			=> 'Confirm publication',
-'L_COMMENT_OFFLINE_BUTTON'			=> 'Switch offline',
-'L_COMMENT_ANSWER_BUTTON'			=> 'Answer this comment',
-'L_COMMENT_UPDATE_BUTTON'			=> 'Update',
+'L_COMMENT_STATUS_FIELD'			=> 'Статус',
+'L_COMMENT_LINKED_ARTICLE_FIELD'	=> 'К статье', # used in commentaire.php and commentaire_new.php
+'L_COMMENT_ARTICLE_FIELD'			=> 'Комментарии',
+'L_COMMENT_DELETE_CONFIRM'			=> 'Удалить этот комментарий ?',
+'L_COMMENT_PUBLISH_BUTTON'			=> 'Разрешить публикацию',
+'L_COMMENT_OFFLINE_BUTTON'			=> 'Переключить в оффлайн',
+'L_COMMENT_ANSWER_BUTTON'			=> 'Ответить на этот комментарий',
+'L_COMMENT_UPDATE_BUTTON'			=> 'Применить',
 
 # sous_navigation/commentaires.php
 
@@ -191,7 +191,7 @@ $LANG = array(
 'L_COMMENT_SAVE_BUTTON' 			=> 'Сохранить',
 'L_ARTICLE_COMMENTS_LIST'			=> 'Comments for this article (from most recent to the oldest)',
 'L_COMMENT_ANSWER_TITLE' 			=> 'Answer this comment',
-'L_COMMENT_ANSWER'					=> 'Answer',
+'L_COMMENT_ANSWER'					=> 'Ответить',
 
 # commentaires_offline.php
 
@@ -217,7 +217,7 @@ $LANG = array(
 'L_COMMENT_OFFLINE_FEEDS'			=> 'Оффлайн комментарии', # used in commentaires_offline.php and commentaires_online.php
 'L_COMMENT_ONLINE_FEEDS_TITLE'		=> 'Atom feed for online comments', # used in commentaires_offline.php and commentaires_online.php
 'L_COMMENT_ONLINE_FEEDS'			=> 'Онлайн комментарии', # used in commentaires_offline.php and commentaires_online.php
-'L_COMMENTS_PRIVATE_FEEDS'		    => 'Private feeds',
+'L_COMMENTS_PRIVATE_FEEDS'		    => 'Частные ленты',
 
 # commentaire_online.php
 
@@ -303,61 +303,61 @@ $LANG = array(
 'L_IN'								=> 'в',
 'L_MEDIAS_SORT'						=> 'sort :',
 'L_MEDIAS_ALPHA'					=> 'alphabetical',
-'L_MEDIAS_DATE_DESC'				=> 'date, descendant',
+'L_MEDIAS_DATE_DESC'				=> 'дата, убывание',
 'L_MEDIAS_UPDATE'					=> 'Применить изменения',
 'L_MEDIAS_REBUILD_THUMBS_FOLDER'	=> 'Заново создать превью для этой папки',
 
 # parametres_affichage.php
 
-'L_NONE2'							=> 'none',
-'L_DESC'							=> 'descendant',
-'L_ASC'								=> 'ascendant',
-'L_CONFIG_VIEW_TITLE'				=> 'Editing PluXml settings',
-'L_CONFIG_VIEW_FIELD'				=> 'Display preferences',
-'L_CONFIG_VIEW_SKIN_SELECT'			=> 'Skin',
-'L_CONFIG_VIEW_FILES_EDIT_TITLE'	=> 'Edit theme files',
-'L_CONFIG_VIEW_FILES_EDIT'			=> 'Edit theme files',
-'L_CONFIG_VIEW_SORT'				=> 'Sorting articles',
-'L_CONFIG_VIEW_BYPAGE'				=> 'Articles per page',
-'L_CONFIG_VIEW_BYPAGE_ARCHIVES'		=> 'Articles per page in archives',
-'L_CONFIG_VIEW_BYPAGE_ADMIN'		=> 'Articles per page in administration',
-'L_CONFIG_VIEW_SORT_COMS'			=> 'Sorting comments',
-'L_CONFIG_VIEW_BYPAGE_ADMIN_COMS'	=> 'Comments per page in administraton',
-'L_CONFIG_VIEW_THUMBS'				=> 'Thumbnails size (width x height)',
-'L_CONFIG_VIEW_HOMESTATIC'			=> 'Use a static page as Homepage',
-'L_CONFIG_VIEW_HOMESTATIC_ACTIVE'	=> '<span class="alert">Warning: this page is inactive</span>',
-'L_CONFIG_VIEW_PLUXML_RESSOURCES'	=> 'Download themes at <a href="http://ressources.pluxml.org">ressources.pluxml.org</a>.',
-'L_CONFIG_VIEW_FEEDS_FIELD'			=> 'Rss/Atom Feed',
-'L_CONFIG_VIEW_BYPAGE_FEEDS'		=> 'N° of Articles or comments in the Rss/Atom feed',
-'L_CONFIG_VIEW_FEEDS_HEADLINE'		=> 'Only display headlines in the Rss/Atom article feed <a class="help" title="Headline field is empty, content is displayed instead">&nbsp;</a>',
-'L_CONFIG_VIEW_FEEDS_FOOTER'		=> 'Signature used in the end of every Rss/Atom feed\'s article',
-'L_CONFIG_VIEW_UPDATE'				=> 'Edit display settings',
+'L_NONE2'							=> 'нет',
+'L_DESC'							=> 'убывание',
+'L_ASC'								=> 'возрастание',
+'L_CONFIG_VIEW_TITLE'				=> 'Редактирование настроек отображения',
+'L_CONFIG_VIEW_FIELD'				=> 'Настройки отображения',
+'L_CONFIG_VIEW_SKIN_SELECT'			=> 'Скин',
+'L_CONFIG_VIEW_FILES_EDIT_TITLE'	=> 'Редактировать файлы темы',
+'L_CONFIG_VIEW_FILES_EDIT'			=> 'Редактировать файлы темы',
+'L_CONFIG_VIEW_SORT'				=> 'Порядок сортировки статей',
+'L_CONFIG_VIEW_BYPAGE'				=> 'Количество статей на страницу',
+'L_CONFIG_VIEW_BYPAGE_ARCHIVES'		=> 'Количество статей на страницу в архивах',
+'L_CONFIG_VIEW_BYPAGE_ADMIN'		=> 'Количество статей на страницу в административном режиме',
+'L_CONFIG_VIEW_SORT_COMS'			=> 'Сортировка комментариев',
+'L_CONFIG_VIEW_BYPAGE_ADMIN_COMS'	=> 'Комментариев на страницу в административном режиме',
+'L_CONFIG_VIEW_THUMBS'				=> 'Размер превью (ширина x высота)',
+'L_CONFIG_VIEW_HOMESTATIC'			=> 'Использовать статическую страницу как домашнюю',
+'L_CONFIG_VIEW_HOMESTATIC_ACTIVE'	=> '<span class="alert">Внимание: страница не активна</span>',
+'L_CONFIG_VIEW_PLUXML_RESSOURCES'	=> 'Загрузите темы на <a href="http://ressources.pluxml.org">ressources.pluxml.org</a>.',
+'L_CONFIG_VIEW_FEEDS_FIELD'			=> 'Rss/Atom лента',
+'L_CONFIG_VIEW_BYPAGE_FEEDS'		=> 'N° статей или комментариев в Rss/Atom ленте',
+'L_CONFIG_VIEW_FEEDS_HEADLINE'		=> 'Отрображать только заголовки статей в Rss/Atom ленте<a class="help" title="Если поле заголовка пустое, отображать толкьо контент">&nbsp;</a>',
+'L_CONFIG_VIEW_FEEDS_FOOTER'		=> 'Подпись используемая в каждой Rss/Atom ленте статьи',
+'L_CONFIG_VIEW_UPDATE'				=> 'Применить изменения',
 
 # parametres_avances.php
 
-'L_CONFIG_ADVANCED_TITLE'			=> 'Edit PluXml Settings',
-'L_CONFIG_ADVANCED_DESC'			=> 'Advanced configuration (experienced user)',
-'L_CONFIG_ADVANCED_URL_REWRITE'		=> 'Enable url rewriting',
-'L_CONFIG_ADVANCED_URL_REWRITE_ALERT'=> '<span class="alert">Warning: a .htaccess file already exists at your PluXml\'s installation root. Activating url rewriting will replace this file</span>',
-'L_CONFIG_ADVANCED_GZIP'			=> 'Enable GZIP compression',
-'L_CONFIG_ADVANCED_GZIP_HELP'		=> 'Makes it possible to compress pages to save bandwidth, but could increase CPU usage',
-'L_CONFIG_ADVANCED_CAPCHA'			=> 'Enable anti spam-capcha',
-'L_CONFIG_ADVANCED_ADMIN_KEY'		=> 'Administration key (private URLs)',
-'L_CONFIG_ADVANCED_KEY_HELP'		=> 'Leave this field empty to rebuild key',
-'L_CONFIG_ADVANCED_FILES_FOLDERS'	=> 'Folders and files location',
-'L_CONFIG_ADVANCED_USERFOLDERS'		=> 'Use separate Images and Documents folders for every user',
-'L_HELP_SLASH_END'					=> 'Don\'t forget the slash at the end',
-'L_CONFIG_ADVANCED_PICS_FOLDER'		=> 'Images (folder) location',
-'L_CONFIG_ADVANCED_DOCS_FOLDER'		=> 'Documents (folder) location',
-'L_CONFIG_ADVANCED_ARTS_FOLDER'		=> 'Articles (folder) location',
-'L_CONFIG_ADVANCED_COMS_FOLDER'		=> 'Comments (folder) location',
-'L_CONFIG_ADVANCED_STATS_FOLDER'	=> 'Static page (folder) location',
-'L_CONFIG_ADVANCED_CATS_FILE'		=> 'Categories location (xml file)',
-'L_CONFIG_ADVANCED_STATICS_FILE'	=> 'Static page file location (xml file)',
-'L_CONFIG_ADVANCED_USERS_FILE'		=> 'Users file location (xml file)',
-'L_CONFIG_ADVANCED_TAGS_FILE'		=> 'Tags file location (xml file)',
-'L_CONFIG_ADVANCED_PLUGINS_FILE'	=> 'Plugins file location (xml file)',
-'L_CONFIG_ADVANCED_UPDATE'			=> 'Edit advanced configuration',
+'L_CONFIG_ADVANCED_TITLE'			=> 'Редактировать настройки PluXml',
+'L_CONFIG_ADVANCED_DESC'			=> 'Расширенная конфигурация (опытный пользователь)',
+'L_CONFIG_ADVANCED_URL_REWRITE'		=> 'Включить функцию перезаписи url ',
+'L_CONFIG_ADVANCED_URL_REWRITE_ALERT'=> '<span class="alert">Внимание: Файл .htaccess уже существует в корне инсталляции PluXml. Активирование функции перезаписи url заменит этот файл</span>',
+'L_CONFIG_ADVANCED_GZIP'			=> 'Включить сжатие GZIP ',
+'L_CONFIG_ADVANCED_GZIP_HELP'		=> 'Используется для сжатия страниц и экономии трафика, создаёт дополнительную нагрузку на CPU',
+'L_CONFIG_ADVANCED_CAPCHA'			=> 'Включить анти-спам капчу',
+'L_CONFIG_ADVANCED_ADMIN_KEY'		=> 'Административный ключ (частные URLы)',
+'L_CONFIG_ADVANCED_KEY_HELP'		=> 'Оставте это поле пустым для генерации нового ключя',
+'L_CONFIG_ADVANCED_FILES_FOLDERS'	=> 'Расположение файлов и каталогов',
+'L_CONFIG_ADVANCED_USERFOLDERS'		=> 'Использовать персональные медиа каталоги для каждого пользователя',
+'L_HELP_SLASH_END'					=> 'Не забудте слеш в конце',
+'L_CONFIG_ADVANCED_PICS_FOLDER'		=> 'Расположение каталога "изображения"',
+'L_CONFIG_ADVANCED_DOCS_FOLDER'		=> 'Расположение каталога "документы"',
+'L_CONFIG_ADVANCED_ARTS_FOLDER'		=> 'Расположение каталога "статьи"',
+'L_CONFIG_ADVANCED_COMS_FOLDER'		=> 'Расположение каталога "комментарии"',
+'L_CONFIG_ADVANCED_STATS_FOLDER'	=> 'Расположение каталога "статические страницы"',
+'L_CONFIG_ADVANCED_CATS_FILE'		=> 'Файл "категории" (xml)',
+'L_CONFIG_ADVANCED_STATICS_FILE'	=> 'Файл "статические страницы" (xml)',
+'L_CONFIG_ADVANCED_USERS_FILE'		=> 'Файл "пользователи" (xml)',
+'L_CONFIG_ADVANCED_TAGS_FILE'		=> 'Файл "теги" (xml)',
+'L_CONFIG_ADVANCED_PLUGINS_FILE'	=> 'Файл "плагины" (xml)',
+'L_CONFIG_ADVANCED_UPDATE'			=> 'Редактировать расширенную конфигурацию',
 
 # parametres_base.php
 
